@@ -1,0 +1,3 @@
+server:
+  port: ${PORT:9999}
+message: This is a global message for production
